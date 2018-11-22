@@ -1,6 +1,6 @@
 {
   "name": "@beisen/storybook-core",
-  "version": "4.1.0-alpha.6",
+  "version": "4.1.0-alpha.7",
   "description": "Storybook framework-agnostic API",
   "keywords": [
     "storybook"
@@ -22,7 +22,6 @@
     "prepare": "node ../../scripts/prepare.js"
   },
   "dependencies": {
-    "@beisen/webpack-config-base": "^1.0.2",
     "@babel/plugin-transform-regenerator": "^7.0.0",
     "@emotion/core": "^0.13.1",
     "@emotion/provider": "^0.11.2",

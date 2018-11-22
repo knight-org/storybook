@@ -1,4 +1,4 @@
-import { start } from '@storybook/core/client';
+import { start } from '@beisen/storybook-core/client';
 
 import './globals';
 import render from './render';
